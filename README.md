@@ -1,5 +1,16 @@
 # MODULE-1-CHALLENGE---ML-  
 
+## Link
+
+Click [here](https://micklitodev.github.io/MODULE-1-CHALLENGE-ML-/) to go to my Quora profile. 
+
+
+## ScreenShot 
+
+![Screenshot of finished website product](./assets/images/Screenshot%201.png?raw=true "Horiseon Homepage")
+![Screenshot of finished website product part 2](./assets/images/Screenshot%202%20.png?raw=true)
+![Screenshot of finished website product part 3](./assets/images/Screenshot%203.png?raw=true)
+
 ## Description
 
 Sleek design was kept in mind to order to ensure a pleasant user interface please read each section to better understand our companies goals.
