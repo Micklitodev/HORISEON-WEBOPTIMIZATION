@@ -70,19 +70,19 @@ p {
     margin-left: 25px;
 }
 
-section {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-section h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 
-section div {
+main div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -91,11 +91,11 @@ section div {
     color: #ffffff;
 }
 
-section img {
+main img {
     max-height: 200px;
 }
 
-.benefits {
+section {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -106,7 +106,7 @@ section img {
     background-color: #2589bd;
 }
 
-.benefits div {
+section div {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -121,7 +121,7 @@ section img {
     color: #ffffff;
 } */
 
-.benefit h3 {
+section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -136,7 +136,7 @@ section img {
     text-align: center;
 } */
 
-.benefits img {
+section img {
     display: inline-block;
     margin: 10px auto;
     max-width: 150px;
