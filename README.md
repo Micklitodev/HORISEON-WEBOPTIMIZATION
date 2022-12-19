@@ -2,7 +2,7 @@
 
 ## Link
 
-Click [here](https://micklitodev.github.io/MODULE-1-CHALLENGE-ML-/) to go to the live link. 
+Click [here](https://micklitodev.github.io/HORISEON-WEBOPTIMIZATION/) to go to the live link. 
 
 
 ## ScreenShot 
